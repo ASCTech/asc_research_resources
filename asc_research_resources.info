@@ -27,3 +27,5 @@ features[variable][] = "node_options_qs_research"
 features[variable][] = "upload_qs_research"
 features[views][] = "Research"
 features[views_api][] = "api:2"
+
+stylesheets[all][] = research.css
